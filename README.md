@@ -1,6 +1,9 @@
 # 🤖 PreCaptcha-Discord.PY
 Anti-Bot CAPTCHA System For Discord.
 
+## 📥 Installation
+- `git clone https://github.com/aidangamin/PreCaptcha-Discord.PY/`
+
 ## 🔌 Requirements
 - discord `pip install --upgrade discord`
 - asyncio `pip install --upgrade asyncio`
